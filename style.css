@@ -1,0 +1,126 @@
+body{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.heading_one{
+    padding-left: 10%;
+}
+.div_heading{
+    height: 7vh;
+
+}
+.div_buttons{
+    height: 10vh;
+    background-color: orange;
+    display: flex;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 3%;
+    margin-top: 5px;
+}
+.div_article{
+    height: 30vh;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.div_images{
+    height: 90vh;
+    display: flex;
+    padding: auto;
+    padding-left: 10%;
+    padding-top: 30px;
+    margin-top: 0px;
+    z-index: 2;
+
+}
+.div_heading_three{
+    height: 10px;
+    background-color: white;
+    margin-top: -70px;
+    padding-left: 10%;
+    z-index: 10;
+
+}
+.img1{
+    width: 30%;
+    height: 40vh;
+}
+
+.img2{
+    width: 30%;
+    height: 40vh;
+}
+.img3 {
+    width: 30%;
+    height: 40vh;
+}
+img{
+    height: 45%;
+    border: lightpink solid;
+    border-width: 10px;
+}
+
+.div_bottom{
+    height: 45vh;
+    background-color: orange;
+    display: flex;
+    padding-top: 10px;
+
+}
+.events{
+    width: 25%;
+    padding-right: 10%;
+
+}
+.profile{
+    width: 25%;
+}
+.partners{
+    width: 25%;
+}
+.html_css{
+    width: 25%;
+}
+.events,.profile,.partners,.html_css{
+    padding-right: 10%;
+
+}
+.margin1{
+    width: 20%;
+}
+p{
+    font-size:x-small;
+    padding-right: 20%;
+}
+button{
+    background-color: lightpink;
+    height: 30px;
+    border-radius: 5px;
+}
+button:hover{
+    background-color: darkgrey;
+    color: lightpink;
+}
+.div_copyright{
+    background-color:blanchedalmond;
+    height: 10vh;
+    display: flex;
+    padding-left: 10%;
+    padding-top: 20px;
+    padding-right: 10%;
+
+}
+.mega_development{
+    font-size: 20px;
+    padding-top: 10px;
+}
+.button_readmore{
+   margin-left: 80%;
+}
+ul{
+    padding-left: 10px;
+}
+.paragraph{
+    font-size:x-small;
+    padding-right: 0;
+}
